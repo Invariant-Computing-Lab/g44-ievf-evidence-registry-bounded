@@ -1,6 +1,8 @@
 # G44 — ievf-evidence-registry
 
-**Status: PRIVATE CANDIDATE / NEWLY IMPLEMENTED BOUNDED UTILITY.** This is NOT the original unrecovered upstream G44 repository, and is NOT a scientific validation or a public release authorization.
+**Programme context.** Invariant Computing Lab / IEVF: finite evidence and claim-gating tests. This repository is not an independently validated scientific result, a clinical certification, or a blanket public licence. Its synthetic checks and unrecovered upstream lineage remain explicit.
+
+**Status: PUBLICLY VISIBLE BOUNDED RESEARCH CANDIDATE / NEWLY IMPLEMENTED UTILITY.** This is NOT the original unrecovered upstream G44 repository, and is NOT a scientific validation or a public release authorization.
 
 ## Functionality
 
